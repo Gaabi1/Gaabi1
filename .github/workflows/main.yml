@@ -15,10 +15,8 @@ jobs:
           github_user_name: Gaabi1
           outputs: |
             ./dist/github-contribution-grid-snake.svg
-          snake_color: "#ff69b4"
-          background_color: "#000000"
 
-      - name: Push to GitHub
+      - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
