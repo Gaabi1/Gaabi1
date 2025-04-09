@@ -1,0 +1,31 @@
+name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # Executa todo dia à meia-noite UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
+        uses: MauMoran/snk@v1
+        with:
+          github_user_name: Gaabi1
+          outputs: |
+            ./dist/github-contribution-grid-snake.svg
+          snake_color: '#ff00ff'          # Rosa neon
+          background_color: '#000000'     # Fundo preto (opcional)
+
+      - name: Commit and push
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add dist/github-contribution-grid-snake.svg
+          git commit -m "update snake"
+          git push
