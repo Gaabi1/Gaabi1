@@ -41,7 +41,7 @@
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seu-usuario-instagram)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-ester-69180025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabbii1_?igsh=c2JqZ2FtNnRpcnQ3)
 
 ## 🐍 Snake Contribution Graph
 ![snake gif](https://github.com/Gaabi1/Gaabi1/blob/output/github-contribution-grid-snake.svg)
