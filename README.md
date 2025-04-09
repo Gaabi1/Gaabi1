@@ -7,12 +7,16 @@
     <td>
 
 💻 Biotechnology & Software Engineering student <br>
-🌸 Passionate about coding, science, and creating beautiful things with purpose <br>
+
+🌸 Passionate about coding, science, and creating things with purpose <br>
+
+✨ Curious mind, always open to new learning opportunities, challenges, and collaboration.
+
 📍 From Barreiras, Bahia – Brazil.
 
   </td>
   <td>
-    <img src="https://31.media.tumblr.com/443cf0325430e2e067f13ba4a6372f78/tumblr_mlarbsHxIG1rvkw6no1_500.gif" width="200" alt="Whisper of the Heart Gif">
+    <img src="https://31.media.tumblr.com/443cf0325430e2e067f13ba4a6372f78/tumblr_mlarbsHxIG1rvkw6no1_500.gif" width="300" alt="Whisper of the Heart Gif">
   </td>
   </tr>
 </table>
