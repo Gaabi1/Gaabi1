@@ -6,7 +6,7 @@
   <tr>
     <td>
 
-💻 Biotechnology & Software Engineering student <br>
+💻 Software Engineering student <br>
 
 🌸 Passionate about coding, science, and creating things with purpose <br>
 
