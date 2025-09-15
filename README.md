@@ -12,7 +12,6 @@
 
 ✨ Curious mind, always open to new learning opportunities, challenges, and collaboration.
 
-📍 From Barreiras, Bahia – Brazil.
 
   </td>
   <td>
