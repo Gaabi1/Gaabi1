@@ -8,6 +8,8 @@
 
 💻 Software Engineering student <br>
 
+🧬 Biotechnology Engineering Student <br>
+
 🌸 Passionate about coding, science, and creating things with purpose <br>
 
 ✨ Curious mind, always open to new learning opportunities, challenges, and collaboration.
