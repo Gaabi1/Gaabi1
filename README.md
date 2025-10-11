@@ -38,12 +38,10 @@
 - Building personal projects and contributing to open source
 
 ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gaabi1&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaabi1&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaabi1&show_icons=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4&cache_seconds=1800" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaabi1&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=000000&border_color=ff69b4&hide=Jupyter%20Notebook&cache_seconds=1800" height="180"/>
 </p>
-
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-ester-69180025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabbii1_?igsh=c2JqZ2FtNnRpcnQ3)
