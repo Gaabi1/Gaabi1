@@ -45,7 +45,7 @@
     width="49%"
   />
   <img
-    src="https://github-readme-stats-l6gt7z3pp-gabrielaester.vercel.app/api/top-langs/?username=Gaabi1&layout=compact&theme=transparent&hide=jupyter%20notebook"
+    src="https://github-readme-stats-l6gt7z3pp-gabrielaester.vercel.app/api/top-langs/?username=Gaabi1&layout=compact&theme=transparent&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"
     width="49%"
   />
 </p>
