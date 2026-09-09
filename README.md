@@ -38,7 +38,17 @@
 - Building personal projects and contributing to open source
 
 ## 📈 GitHub Stats
-![Gabi's GitHub Stats](https://github-readme-stats-l6gt7z3pp-gabrielaester.vercel.app/api?username=Gaabi1)
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-l6gt7z3pp-gabrielaester.vercel.app/api?username=Gaabi1&show_icons=true&hide_rank=true&theme=transparent"
+    width="49%"
+  />
+  <img
+    src="https://github-readme-stats-l6gt7z3pp-gabrielaester.vercel.app/api/top-langs/?username=Gaabi1&layout=compact&theme=transparent"
+    width="49%"
+  />
+</p>
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-ester-69180025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabbii1_?igsh=c2JqZ2FtNnRpcnQ3)
