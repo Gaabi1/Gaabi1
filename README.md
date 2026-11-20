@@ -1,10 +1,10 @@
 ## 👩🏻‍💻 Gabriela Ester
 
 **`Junior Developer`**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <img alt="Gabriela's GitHub Profile Banner" src="light.svg" width="100%">
-</picture>
+<p align="center">
+  <img src="dark.svg#gh-dark-mode-only" alt="Gabriela Ester - Dark Banner" width="100%">
+  <img src="light.svg#gh-light-mode-only" alt="Gabriela Ester - Light Banner" width="100%">
+</p>
 
 ## 💻 Languages & Technologies
 
