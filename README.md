@@ -1,26 +1,11 @@
 ## 👩🏻‍💻 Gabriela Ester
 
 **`Junior Developer`**
-
-<table>
-  <tr>
-    <td>
-
-💻 Software Engineering student <br>
-
-🧬 Biotechnology Engineering Student <br>
-
-🌸 Passionate about coding, science, and creating things with purpose <br>
-
-✨ Curious mind, always open to new learning opportunities, challenges, and collaboration.
-
-
-  </td>
-  <td>
-    <img src="https://31.media.tumblr.com/443cf0325430e2e067f13ba4a6372f78/tumblr_mlarbsHxIG1rvkw6no1_500.gif" width="300" alt="Whisper of the Heart Gif">
-  </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Gabriela's GitHub Profile Banner" src="light.svg" width="100%">
+</picture>
 
 ## 💻 Languages & Technologies
 
@@ -32,7 +17,7 @@
 
 ## 🎯 Current Learning Goals
 
-- Improving my skills in **Python** and **C**
+- Improving my skills in **Python** and **Java**
 - Learning the basics of **web development** (HTML, CSS, JavaScript)
 - Exploring the intersection between **biotechnology and programming**
 - Building personal projects and contributing to open source
